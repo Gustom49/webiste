@@ -137,7 +137,7 @@ p {
    div {
     display: inline-block;
     width: 400px;
-    border: 2px solid grey;
+    border: 2px solid rgb(230, 32, 32);
     margin: 30px;
     padding: 20px;
     background-color:#1b1b1b;
